@@ -1,9 +1,12 @@
-import Link from "next/link";
+import Link from 'next/link';
+
+const avatarUrl = 'https://utfs.io/f/16ce36c1-c3e5-438e-a2e2-e6925074d428-f3g93q.jpg'
+
 
 export default function HomePage() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center bg-gradient-to-b from-[#2e026d] to-[#15162c] text-white">
-      Protoflio
+    <main className=''>
+      <img src={avatarUrl} alt='avatar' className='rounded-full h-32 w-32' />
     </main>
   );
 }

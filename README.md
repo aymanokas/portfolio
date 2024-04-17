@@ -3,6 +3,7 @@
 ## TODO
 - [x] Deploy (vercel)
 - [ ] Error management (Sentry)
+- [ ] Add three.js
 - [ ] Add authentication (clerk)
 - [ ] Set up database (vercel postgres)
 - [ ] Add analytics (posthog)
