@@ -4,6 +4,7 @@
 - [x] Deploy (vercel)
 - [x] Set up database (vercel postgres - drizzle studio)
 - [x] Add authentication (clerk)
+- [ ] "taint"
 - [ ] Error management (Sentry)
 - [ ] Add three.js
 - [ ] Add analytics (posthog)
