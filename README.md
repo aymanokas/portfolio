@@ -2,10 +2,10 @@
 
 ## TODO
 - [x] Deploy (vercel)
-- [x] Set up database (vercel postgres)
+- [x] Set up database (vercel postgres - drizzle studio)
+- [x] Add authentication (clerk)
 - [ ] Error management (Sentry)
 - [ ] Add three.js
-- [ ] Add authentication (clerk)
 - [ ] Add analytics (posthog)
 - [ ] Ratelimiting (upstash)
 - [ ] Create the header
