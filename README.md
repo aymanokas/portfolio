@@ -1,4 +1,4 @@
-# Aymane kas - Portofolio
+# Aymane kas - Portfolio
 
 ## TODO
 - [x] Deploy (vercel)
