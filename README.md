@@ -6,8 +6,8 @@
 - [x] Add authentication (clerk)
 - [x] "taint" (security and specific data for each user)
 - [x] Fix Next/Image
+- [x] Add three.js
 - [ ] Error management (Sentry)
-- [ ] Add three.js
 - [ ] Add analytics (posthog)
 - [ ] Ratelimiting (upstash)
 - [ ] Create the header
@@ -15,5 +15,3 @@
 - [ ] Create the projects section
 - [ ] Create the contact section
 - [ ] Make it responsive
-- [ ] Add animations
-- [ ] Routing (parallel route)
